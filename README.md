@@ -1,4 +1,5 @@
 # Завдання 1
+"start": "web-dev-server --node-resolve --open --watch"
 
 У вас є компонент React, який використовує useRef та IntersectionObserver для визначення, коли користувач переглядає кінець вмісту. Ваше завдання полягає в наступному:
 
